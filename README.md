@@ -39,7 +39,7 @@ A comprehensive business intelligence solution built with Flask that provides:
 - Historical trend analysis
 
 ### 3. Recommendation Engine
-- **6 Recommendation Strategies**:
+- *** Recommendation Strategies**:
   - Popular products
   - Trending items
   - Content-based (KNN)
@@ -232,9 +232,3 @@ docker run -p 5000:5000 flask-bi
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
-
-**Note**: This is a template README. Replace placeholder values with your actual project details, and expand sections as needed for your specific implementation. Consider adding:
-- Screenshots of sample outputs
-- Detailed API examples with curl commands
-- Performance benchmarks
-- Roadmap for future features
